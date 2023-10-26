@@ -1,5 +1,53 @@
- h1 { font-size: 50px;}
+h1 { font-size: 50px;}
+ 
+ h2{ font-size: 50px;
+    color:chartreuse
+}
+h3{ font-size: 50px;
+    color:chartreuse
+}
+h4 { font-size: 50px;
+    color:chartreuse
+}
+
+body {
+    background-color: lavender;
+
+    text-align: center;
+}
+.imagem1 {
+    text-align: center;
+}
+.imagemcentralizada {
+ text-align: center;
+}
+
+.lk {
+    font-style:italic
+
+.lista {
+        display: inline-block;
+        padding: 5%;
+        margin-right: 10%;
+        color:chartreuse
+        padding: 5%;
+        border-color: 
+        border-width: 20px;
+        border-style: solid;
+        border-radius: 12px 50px 2px 120px;
+    }
+
+nav a{
+    text-transform: uppercase;
+    text-align: center;
+    color:blue
+    font-weight: 300;
+    font-size: 100%;
+    text-decoration: none ;
+    border-color:
+    border-width: 10px;
+    border-style: solid; 
+    backgound-color:
+}
  
  
- 
- .lk {  background-color: chartreuse;   font-size: 27px;}
